@@ -1,0 +1,14 @@
+{
+	"WorkLoads":
+	[
+		{
+		"subscription" : "TST-PayAsYouGo",
+		"resourceGroup": "TST-RG"
+		},
+
+		{
+		"subscription" : "Prod-PayAsYouGo",
+		"resourceGroup": "PROD-RG"
+		}
+	]
+}
