@@ -3,12 +3,12 @@ This repository contains PowerShell scripts related to different usecases.
 
 Prerequisite:
 -------------
-1) Powershell version must be 5.1 or greater. To check the powersehll version,
+Powershell version must be 5.1 or greater. To check the powersehll version,
 use the following command:
 
 	$PSVersionTable.PSVersion
 
-2) Execution policy of the user (thru which you want to execute the script) must
+Execution policy of the user (thru which you want to execute the script) must
 be set to unrestricted for the uninterrupted execution. To check the execution 
 policy, run the following command in powershell terminal:
 
